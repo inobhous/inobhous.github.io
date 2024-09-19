@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inobhous.github.io/sitemap.html.gz
+Sitemap: https://inobhous.github.io/app/sitemap.html.gz
+Sitemap: https://inobhous.github.io/assets/sitemap.html.gz
+Sitemap: https://inobhous.github.io/css/sitemap.html.gz
+Sitemap: https://inobhous.github.io/data/sitemap.html.gz
+Sitemap: https://inobhous.github.io/includes/sitemap.html.gz
+Sitemap: https://inobhous.github.io/item/sitemap.html.gz
+Sitemap: https://inobhous.github.io/src/sitemap.html.gz
